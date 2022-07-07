@@ -37,7 +37,7 @@ The project is preconfigured with a simple development web server. The simplest 
 ### Get API documentation
     http://localhost:12345/api-docs/
 
-The link will generate a /doc folder that will contain an index.html file. Open it in any browser. The file contains information about API routes.
+The link will take you to an html file. Open it in any browser. The file contains information about API routes.
 After running the server.
 
 ### Project Structure
